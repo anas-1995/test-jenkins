@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('myStage'){
       steps {
-        sh 'cd C://Users/geforce/Desktop/jenkis/test-jenkins'
+        cd C://Users/geforce/Desktop/jenkis/test-jenkins
       }
     }
   }
