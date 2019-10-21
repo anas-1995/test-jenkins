@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('myStage'){
       steps {
-        echo 'ssssssss'
+        cd C:/Users/geforce/Desktop/jenkis/test-jenkins\\
       }
     }
   }
