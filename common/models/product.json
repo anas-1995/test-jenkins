@@ -10,7 +10,7 @@
       "type": "string",
       "required": true
     },
-    "urllssss": {
+    "urllss": {
       "type": "string",
       "required": true
     }
