@@ -20,5 +20,9 @@
   "city": {
     "dataSource": null,
     "public": true
+  },
+  "product": {
+    "dataSource": null,
+    "public": true
   }
 }
