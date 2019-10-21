@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('myStage'){
       steps {
-        command.execute(null, cd)
+        cd
       }
     }
   }
