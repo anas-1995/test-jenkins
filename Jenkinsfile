@@ -4,7 +4,7 @@ pipeline {
     stage('myStage'){
       steps {
         dir("C:/Users/geforce/Desktop/jenkis/test-jenkins") {
-          bat 'dir'
+          bat 'git pull'
         }
       }
     }
