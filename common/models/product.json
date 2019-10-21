@@ -10,7 +10,7 @@
       "type": "string",
       "required": true
     },
-    "url": {
+    "urll": {
       "type": "string",
       "required": true
     }
